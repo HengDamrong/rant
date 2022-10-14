@@ -1,0 +1,4 @@
+rant_admin_user
+
+Access key ID: AKIAXVCGYU64MINEZOFG
+Secret access key: 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
